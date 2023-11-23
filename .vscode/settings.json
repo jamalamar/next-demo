@@ -1,4 +1,6 @@
 {
     "workbench.tree.indent": 24,
-    "breadcrumbs.icons": true
+    "breadcrumbs.icons": true,
+    "workbench.list.openMode": "singleClick",
+    "workbench.tree.expandMode": "doubleClick"
 }
